@@ -55,6 +55,7 @@ def open_file_dialog():
 
 # Interface graphique
 root = tk.Tk()
+root.iconbitmap("Y.ico")
 root.title("Découpeur Vidéo Automatique")
 root.geometry("400x200")
 
