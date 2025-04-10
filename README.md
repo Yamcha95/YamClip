@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Y.ico" alt="Logo du projet" width="300"/>
+</p>
+
 # YamClip 🎬✂️
 
 YamClip est une application Windows simple et rapide qui permet de **découper automatiquement des vidéos** en scènes, grâce à l'algorithme de détection de scène de PySceneDetect. Idéal pour traiter des vidéos longues ou faire du montage rapide.
